@@ -21,6 +21,12 @@
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<GenerateDocumentationFile>true</GenerateDocumentationFile>
 		<PackageReadmeFile>README.md</PackageReadmeFile>
+		<Authors>Hamed Fathi</Authors>
+		<Company />
+		<LangVersion>latest</LangVersion>
+		<PackageProjectUrl>https://github.com/HamedFathi/SwaggerToFetchGenerator</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/HamedFathi/SwaggerToFetchGenerator</RepositoryUrl>
+		<PublishRepositoryUrl>true</PublishRepositoryUrl>
 	</PropertyGroup>
 	<ItemGroup>
 		<None Include="..\README.md" Pack="true" PackagePath="\" />
